@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397222113919",
+    "project_id": "mobilalk-vernyomas",
+    "storage_bucket": "mobilalk-vernyomas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397222113919:android:e6efadc5fdb4b2899c454a",
+        "android_client_info": {
+          "package_name": "com.example.venyomasnaplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397222113919-cva2u1p8kfqvolq102becrdhrjgjj62u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venyomasnaplo",
+            "certificate_hash": "c400a8f9512000039eb680d288a0211736c23a43"
+          }
+        },
+        {
+          "client_id": "397222113919-9dujl8u9rrlfe3slcvt0r7ltpfp8rip3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH5uTYbAfjzj5ICIcYPI4FyQDmeDZrR6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397222113919-9dujl8u9rrlfe3slcvt0r7ltpfp8rip3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/addNewMeasurement"
+        android:title="@string/m_r_s_hozz_ad_sa"
+        android:icon="@drawable/ic_baseline_add_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="@string/kijelentkez_s"
+        app:showAsAction="always"/>
+</menu>
+
